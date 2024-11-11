@@ -1,0 +1,9 @@
+[submodule "themes/themes/today-i-learned"]
+	path = themes/themes/today-i-learned
+	url = https://github.com/michenriksen/hugo-theme-til.git
+[submodule "themes/hugo-theme-til"]
+	path = themes/hugo-theme-til
+	url = https://github.com/michenriksen/hugo-theme-til.git
+[submodule "themes/today-i-learned"]
+	path = themes/today-i-learned
+	url = https://github.com/michenriksen/hugo-theme-til.git
