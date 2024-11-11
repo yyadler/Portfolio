@@ -6,3 +6,4 @@ draft = true
 
 
 Welcome to my blog! This is my very first post.
+[Link Text]({{< ref "content/posts/My secend blog.md" >}})

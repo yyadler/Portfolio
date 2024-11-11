@@ -1,6 +1,6 @@
 baseURL = 'https://jjadler.co/' # Replace with your Netlify URL later
 languageCode = 'en-us'
-title = "My Hugo Blog" # Customize with your site name
+title = "Yehuda JJ Adler" # Customize with your site name
 enableRobotsTXT = true
 
 [module]
