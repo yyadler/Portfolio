@@ -1,15 +1,1 @@
-{
-  "graph": {
-    "/posts/my-first-post/": {
-      "in": [],
-      "out": []
-    }
-  },
-  "pages": {
-    "/posts/my-first-post/": {
-      "permalink": "/posts/my-first-post/",
-      "section": "posts",
-      "title": "My First Post"
-    }
-  }
-}
+{"graph":{"/posts/my-first-post/":{"in":[],"out":[]},"/posts/my-secend-post/":{"in":[],"out":[]}},"pages":{"/posts/my-first-post/":{"permalink":"/posts/my-first-post/","section":"posts","title":"My First Post"},"/posts/my-secend-post/":{"permalink":"/posts/my-secend-post/","section":"posts","title":"My SECEND  Post"}}}

@@ -5,5 +5,5 @@ draft = false
 +++
 
 
-Welcome to my blog! This is my very [first post.]({{< ref "content/posts/my-secend-post.md" >}})
+Welcome to my blog! This is my very [first post.](my-secend-post.md)
 

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://scaling-space-barnacle-gjqv7qw4vppfvqxw-1313.app.github.dev/sitemap.xml
+Sitemap: https://jjadler.co/sitemap.xml
